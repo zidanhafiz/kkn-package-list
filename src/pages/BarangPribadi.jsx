@@ -134,7 +134,7 @@ const BarangPribadi = () => {
             CEWEK
           </a>
         </div>
-        <div className="mt-7">
+        <div className="mt-7 text-start">
           <div className="collapse collapse-plus bg-base-200">
             <input
               type="radio"

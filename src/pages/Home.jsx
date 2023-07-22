@@ -21,6 +21,13 @@ const Home = () => {
           <Link className="btn btn-neutral" to="/barang-kelompok">
             Barang Kelompok
           </Link>
+          <a
+            className="btn btn-neutral"
+            href="https://docs.google.com/spreadsheets/d/1F7s3t_DbsZvmJmZRLUtpJWSgsRq3Pck5haVJKAC1GdE/edit?usp=sharing"
+            target="_blank"
+          >
+            Spreadsheets RAB Barang
+          </a>
         </div>
       </div>
     </div>
